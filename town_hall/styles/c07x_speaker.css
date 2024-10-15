@@ -87,7 +87,7 @@ article img {
 	background-repeat: no-repeat;
 	background-position: 95% center;
 }
-#nav_list ul li .item { box-shadow: 3px 3px #800000;
+#nav_list ul li .item { box-shadow: 3px 3px #800000;}
 #nav_list ul li a {
 	display: block;
 	padding: .5em 0 .5em 1.5em;
