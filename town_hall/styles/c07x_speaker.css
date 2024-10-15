@@ -16,6 +16,7 @@ body {
 }
 a:focus, a:hover {
 	font-style: italic;
+	color: blue; 
 }
 /* the styles for the header */
 header {
@@ -80,7 +81,7 @@ article img {
 }
 #nav_list ul li {
 	width: 200px;
-	margin-bottom: .5em;
+	margin-bottom: 5em;
 	border: 2px solid black;
 	box-shadow: 3px 3px 0 0 #800000;
 	background-image: url("../images/right.jpg");
@@ -90,7 +91,7 @@ article img {
 #nav_list ul li .item { box-shadow: 3px 3px #800000;}
 #nav_list ul li a {
 	display: block;
-	padding: .5em 0 .5em 1.5em;
+	padding: 2em 0 5em 1.5em;
 	text-decoration: none;
 	font-weight: bold;
 	color: black;
