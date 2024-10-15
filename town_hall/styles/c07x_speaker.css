@@ -95,7 +95,9 @@ article img {
 	font-weight: bold;
 	color: black;
 }
-
+#nav_list ul li a.current {
+	color: #800000;
+}
 /* the styles for the aside */
 aside {
 	width: 215px;
