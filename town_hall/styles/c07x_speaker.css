@@ -73,6 +73,28 @@ article img {
 	margin: .5em 0 1em 1em;
 	border: 1px solid black;
 }
+#nav_list ul {
+	list-style-type: none;
+	margin-left: 1.25em;
+	margin-bottom: 1.5em;
+}
+#nav_list ul li {
+	width: 200px;
+	margin-bottom: .5em;
+	border: 2px solid black;
+	box-shadow: 3px 3px 0 0 #800000;
+	background-image: url("../images/right.jpg");
+	background-repeat: no-repeat;
+	background-position: 95% center;
+}
+#nav_list ul li .item { box-shadow: 3px 3px #800000;
+#nav_list ul li a {
+	display: block;
+	padding: .5em 0 .5em 1.5em;
+	text-decoration: none;
+	font-weight: bold;
+	color: maroon;
+}
 
 /* the styles for the aside */
 aside {
