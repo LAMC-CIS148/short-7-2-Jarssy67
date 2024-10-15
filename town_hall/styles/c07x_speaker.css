@@ -81,7 +81,7 @@ article img {
 }
 #nav_list ul li {
 	width: 200px;
-	margin-bottom: 5em;
+	margin-bottom: 2.5em;
 	border: 2px solid black;
 	box-shadow: 3px 3px 0 0 #800000;
 	background-image: url("../images/right.jpg");
@@ -91,7 +91,7 @@ article img {
 #nav_list ul li .item { box-shadow: 3px 3px #800000;}
 #nav_list ul li a {
 	display: block;
-	padding: 1em 0 3em 1.5em;
+	padding: 1em 0 1.7em 1.5em;
 	text-decoration: none;
 	font-weight: bold;
 	color: black;
